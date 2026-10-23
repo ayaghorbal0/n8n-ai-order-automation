@@ -23,6 +23,8 @@ This project automates order processing using n8n and AI. It receives order info
 - Working with webhooks and JSON data
 - Implementing conditional logic and duplicate detection
 - Connecting APIs and handling workflow errors
+## Workflow Screenshot
 
+![n8n AI Order Automation Workflow](%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-10-23%20122815.png)
 ## Project Status
 Completed a working prototype and tested the main workflow paths.
